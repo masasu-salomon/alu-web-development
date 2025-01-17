@@ -1,0 +1,325 @@
+.header-Hq3 {
+align-items
+: 
+flex-start;
+display
+: 
+flex;
+height
+: 
+2.9461rem;
+left
+: 
+17.1592rem;
+position
+: 
+absolute;
+top
+: 
+3.5023rem;
+width
+: 
+110.3408rem;
+}
+
+
+
+/* style.css */
+
+/* Define a CSS class for the main section background */
+.main-background {
+    /* Set the background image URL and specify its path */
+    background-image: url('./Export_HTML_20230924103033/page-1/assets/auto-group-
+  
+    /* Set the background size to cover the entire container */
+    background-size: cover;
+  
+    /* Set the background attachment to fixed if you want it to stay fixed while 
+    background-attachment: fixed;
+  
+    /* Set a background color as a fallback */
+    background-color: #f0f0f0; /* You can change this to any color you prefer */
+  
+    /* Set the background to be full width and cover the entire height */
+    width: 100%;
+    height: 100%;
+  
+    /* Position the background at the top left corner of the container */
+    background-position: center;
+  
+    /* Add some padding to the content inside the main section so it's readable *
+    padding: 20px;
+  }
+  
+  /* Apply the background class to the main section */
+  main {
+    /* Apply the background styles */
+    /* You can add more styles or adjust these as needed */
+    background-image: url('./Export_HTML_20230924103033/page-1/assets/auto-group-
+    background-size: cover;
+    background-attachment: inherit;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100%;
+    background-position: top left;
+    padding: 20px;
+  }
+  
+  /* Additional styles for the content inside the main section */
+  /* You can customize these styles as needed */
+  main p {
+    color: #333; /* Text color */
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+
+.background-D7o {
+align-items
+: 
+center;
+background-color
+: 
+#071629;
+background-image
+: 
+url("./Export_HTML_20230924103033/page-1/assets/auto-group-33fo.png");
+background-position
+: 
+center;
+background-repeat
+: 
+no-repeat;
+background-size
+: 
+cover;
+box-sizing
+: 
+border-box;
+display
+: 
+flex;
+flex-direction
+: 
+column;
+height
+: 
+109.3rem;
+left
+: 
+0;
+padding
+: 
+22rem 21.4rem 9.8rem 21.7rem;
+position
+: 
+absolute;
+top
+: 
+0;
+width
+: 
+144rem;
+}
+
+
+.mainpart-button-fc5 {
+height
+: 
+109.3rem;
+left
+: 
+0;
+overflow
+: 
+hidden;
+position
+: 
+absolute;
+top
+: 
+0;
+width
+: 
+144rem;
+}
+
+
+.part1testimonials-BQ5 {
+background-color
+: 
+#c170ff;
+box-sizing
+: 
+border-box;
+height
+: 
+39.2rem;
+left
+: 
+0;
+padding
+: 
+10.8rem 23.7rem 12.4rem 26rem;
+position
+: 
+absolute;
+top
+: 
+109.3rem;
+width
+: 
+144rem;
+}
+
+
+.part2tutorials-3bX {
+align-items
+: 
+flex-end;
+display
+: 
+flex;
+height
+: 
+45rem;
+left
+: 
+16.4rem;
+overflow
+: 
+hidden;
+position
+: 
+absolute;
+top
+: 
+157.2rem;
+width
+: 
+111.1rem;
+}
+
+
+.part3freemembership-RYu {
+align-items
+: 
+center;
+background-color
+: 
+#071629;
+box-sizing
+: 
+border-box;
+display
+: 
+flex;
+flex-direction
+: 
+column;
+height
+: 
+50.2rem;
+left
+: 
+0;
+overflow
+: 
+hidden;
+padding
+: 
+7rem 21rem 5.2rem 21rem;
+position
+: 
+absolute;
+top
+: 
+210.9rem;
+width
+: 
+144rem;
+}
+
+
+.part4faq-iBK {
+align-items
+: 
+center;
+display
+: 
+flex;
+flex-direction
+: 
+column;
+height
+: 
+70.7rem;
+left
+: 
+22rem;
+overflow
+: 
+hidden;
+position
+: 
+absolute;
+top
+: 
+266.1rem;
+width
+: 
+92rem;
+}
+
+
+.part5footer-rUZ {
+align-items
+: 
+center;
+background-color
+: 
+#071629;
+box-sizing
+: 
+border-box;
+display
+: 
+flex;
+height
+: 
+24.9rem;
+left
+: 
+0;
+overflow
+: 
+hidden;
+padding
+: 
+9rem 24rem 3.8rem 16.559rem;
+position
+: 
+absolute;
+top
+: 
+346.9rem;
+width
+: 
+144rem;
+}
+
+
+/* Create a 2x2 grid layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+  grid-gap: 20px; /* Adjust the gap between grid items */
+}
+
+/* Style each grid item */
+.grid-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
